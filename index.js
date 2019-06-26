@@ -27,4 +27,4 @@ for (let i = 1; i < noOfNos; i++) {
 }
 
 
-console.log(answer);
+console.log('The answer is ', answer);
